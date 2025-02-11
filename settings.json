@@ -16,7 +16,8 @@
     "Enabled": false,
     "Players": [],
     "IpAddresses": [],
-    "Stages": []
+    "Stages": [],
+    "GameModes": []
   },
   "Discord": {
     "Token": null,
@@ -34,5 +35,9 @@
   "PersistShines": {
     "Enabled": false,
     "Filename": "./moons.json"
+  },
+  "JsonApi": {
+    "Enabled": false,
+    "Tokens": {}
   }
 }
