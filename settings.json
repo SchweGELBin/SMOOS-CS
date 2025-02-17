@@ -37,7 +37,33 @@
     "Filename": "./moons.json"
   },
   "JsonApi": {
-    "Enabled": false,
-    "Tokens": {}
+  "Enabled": true,
+  "Tokens": {
+    "SECRET_TOKEN_1": [
+      "Status/Players",
+      "Status/Players/Name",
+      "Status/Players/Stage",
+      "Status/Players/Costume"
+    ],
+    "SECRET_TOKEN_2": [
+      "Status/Players",
+      "Status/Players/ID",
+      "Status/Players/Name",
+      "Status/Players/GameMode",
+      "Status/Players/Kingdom",
+      "Status/Players/Stage",
+      "Status/Players/Scenario",
+      "Status/Players/Position",
+      "Status/Players/Rotation",
+      "Status/Players/Tagged",
+      "Status/Players/Costume",
+      "Status/Players/Capture",
+      "Status/Players/Is2D",
+      "Status/Players/IPv4",
+      "Commands",
+      "Commands/list",
+      "Commands/send",
+      "Commands/sendall"
+    ]
   }
 }
