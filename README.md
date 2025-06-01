@@ -1,3 +1,6 @@
+# This repository has been archived
+Please take a look at [smoos](https://github.com/SchweGELBin/smoos)
+
 # Super Mario Odyssey: Online Server - C#
 A server for [Super Mario Odyssey: Online](https://github.com/CraftyBoss/SuperMarioOdysseyOnline), written in C#, based on the official [SmoOnlineServer](https://github.com/Sanae6/SmoOnlineServer)
 
